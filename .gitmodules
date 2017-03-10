@@ -16,3 +16,6 @@
 [submodule "ss7-preprocessing"]
 	path = ss7-preprocessing
 	url = https://github.com/polarking/ss7-preprocessing
+[submodule "dialogic-compagnon"]
+	path = dialogic-compagnon
+	url = https://github.com/philpraxis/dialogic-compagnon
