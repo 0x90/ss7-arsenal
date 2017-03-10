@@ -1,0 +1,18 @@
+[submodule "safeseven"]
+	path = safeseven
+	url = https://github.com/akibsayyed/safeseven
+[submodule "ss7MAPer"]
+	path = ss7MAPer
+	url = https://github.com/ernw/ss7MAPer
+[submodule "ss7calc"]
+	path = ss7calc
+	url = https://github.com/philpraxis/ss7calc
+[submodule "SS7Client"]
+	path = SS7Client
+	url = https://github.com/stefancertic/SS7Client
+[submodule "SS7Server"]
+	path = SS7Server
+	url = https://github.com/stefancertic/SS7Server
+[submodule "ss7-preprocessing"]
+	path = ss7-preprocessing
+	url = https://github.com/polarking/ss7-preprocessing
