@@ -19,3 +19,6 @@
 [submodule "dialogic-compagnon"]
 	path = dialogic-compagnon
 	url = https://github.com/philpraxis/dialogic-compagnon
+[submodule "jss7"]
+	path = jss7
+	url = https://github.com/RestComm/jss7
