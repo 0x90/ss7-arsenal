@@ -22,3 +22,6 @@
 [submodule "jss7"]
 	path = jss7
 	url = https://github.com/RestComm/jss7
+[submodule "SigPloit"]
+	path = SigPloit
+	url = https://github.com/SigPloiter/SigPloit
