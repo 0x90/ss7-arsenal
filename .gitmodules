@@ -25,3 +25,6 @@
 [submodule "SigPloit"]
 	path = SigPloit
 	url = https://github.com/SigPloiter/SigPloit
+[submodule "jss7-attack-simulator"]
+	path = jss7-attack-simulator
+	url = https://github.com/polarking/jss7-attack-simulator
