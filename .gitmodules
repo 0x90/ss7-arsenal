@@ -28,3 +28,6 @@
 [submodule "jss7-attack-simulator"]
 	path = jss7-attack-simulator
 	url = https://github.com/polarking/jss7-attack-simulator
+[submodule "SS7-Attack"]
+	path = SS7-Attack
+	url = https://github.com/nishusg/SS7-Attack/
