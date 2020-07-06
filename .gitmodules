@@ -31,3 +31,6 @@
 [submodule "SS7-Attack"]
 	path = SS7-Attack
 	url = https://github.com/nishusg/SS7-Attack/
+[submodule "SigPloit-ss7"]
+	path = SigPloit-ss7
+	url = https://github.com/ethicalhackeragnidhra/SigPloit-ss7
